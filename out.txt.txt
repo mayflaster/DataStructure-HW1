@@ -1,0 +1,18 @@
+init done.
+AddLecture: SUCCESS
+AddLecture: SUCCESS
+GetCourseID: 234218
+GetCourseID: FAILURE
+CalculateScheduleEfficiency: 0.50
+GetAllFreeRoomsByHour: SUCCESS
+0
+--End of room list--
+ChangeCourseID: SUCCESS
+GetAllLecturesByCourse: SUCCESS
+Hour	||	Room
+0	||	0
+1	||	1
+--End of lecture list--
+DeleteLecture: SUCCESS
+CalculateScheduleEfficiency: 0.50
+quit done.
